@@ -1,41 +1,59 @@
-# Yash Mahajan – Data Portfolio
+# 📊 Yash Mahajan – Data Portfolio
 
-## About Me
-Aspiring Data Analyst with skills in SQL, Python, and data analytics.  
-Interested in building data-driven solutions and extracting insights from data.
+## 👨‍💻 About Me
+Aspiring Data Analyst with strong skills in SQL, Python, and data analytics.  
+Interested in building data-driven systems, data pipelines, and extracting insights from real-world datasets.
 
 ---
 
-## Projects
+## 🚀 Projects
 
-### 1. SQL Data Warehouse
-- Designed a SQL-based data warehouse using star schema  
+---
+
+### 1. 🏗️ SQL Data Warehouse
+- Designed and implemented a SQL-based data warehouse using star schema  
 - Built ETL pipelines to process data from multiple CSV datasets  
+- Developed analytical queries using joins, aggregations, and filtering  
 - Used SQL Server for data modeling and querying  
 
-🔗 Link: https://github.com/yashmahajan11234567/Sql-data-warehouse
+🔗 GitHub: https://github.com/yashmahajan11234567/Sql-data-warehouse
 
 ---
 
-### 2. Affordable Housing Recommendation System
+### 2. 🏠 Affordable Housing Recommendation System
 - Built an AI-based housing recommendation system with user-driven filtering  
-- Integrated frontend UI with backend logic for real-time recommendations  
-- Achieved 92% accuracy using neural networks  
+- Implemented backend ML pipeline using neural networks  
+- Achieved ~92% accuracy in recommendations  
+- Enabled real-time recommendations through backend logic  
 
 🌐 Live Demo: https://housing-website-six.vercel.app  
-🔗 GitHub: (add your repo link here)
----
-
-### 3. Data Analytics Dashboards
-- Built dashboards using Power BI, Tableau, and Excel  
-- Analyzed Netflix, HR, and sales datasets  
-- Generated insights from structured datasets  
-
-🔗 Link: https://github.com/yashmahajan11234567/Projects
+🔗 GitHub: https://github.com/yashmahajan11234567/housing-recommendation-backend
 
 ---
 
-## Skills
-- SQL, Python  
-- Power BI, Tableau, Excel  
-- Data Cleaning, ETL, Data Modeling
+### 3. 📊 Data Analytics Dashboards
+- Built interactive dashboards using Power BI, Tableau, and Excel  
+- Analyzed Netflix, HR, and sales datasets to identify trends  
+- Generated actionable insights from structured data  
+
+🔗 GitHub: https://github.com/yashmahajan11234567/Projects
+
+---
+
+## 🛠 Skills
+- **Programming:** Python, SQL  
+- **Tools:** Power BI, Tableau, Excel, SQL Server  
+- **Concepts:** Data Cleaning, ETL, Data Modeling, Data Visualization  
+
+---
+
+## 📌 Goals
+- Build scalable data pipelines and analytics systems  
+- Gain experience in real-world data engineering and analytics  
+- Continuously improve ML and data analysis skills  
+
+---
+
+## 📫 Contact
+📧 hitoyash1130@gmail.com  
+📍 Pune, India  
