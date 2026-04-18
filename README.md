@@ -18,12 +18,12 @@ Interested in building data-driven solutions and extracting insights from data.
 ---
 
 ### 2. Affordable Housing Recommendation System
-- Built a machine learning-based recommendation system  
+- Built an AI-based housing recommendation system with user-driven filtering  
+- Integrated frontend UI with backend logic for real-time recommendations  
 - Achieved 92% accuracy using neural networks  
-- Implemented data preprocessing and feature engineering  
 
-🔗 Link: (add after you upload project)
-
+🌐 Live Demo: https://housing-website-six.vercel.app  
+🔗 GitHub: (add your repo link here)
 ---
 
 ### 3. Data Analytics Dashboards
